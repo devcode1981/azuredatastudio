@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "jsonc-parser": "^2.1.1",
-    "vscode-nls": "^4.0.0"
+    "vscode-nls": "^4.1.1"
   },
   "contributes": {
     "languages": [
@@ -109,6 +109,6 @@
     ]
   },
   "devDependencies": {
-    "@types/node": "^10.14.8"
+    "@types/node": "^13.5.3"
   }
 }
