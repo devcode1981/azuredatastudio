@@ -76,10 +76,10 @@
 		]
 	},
 	"dependencies": {
-		"vscode-nls": "^3.2.1"
+		"vscode-nls": "^4.1.1"
 	},
 	"devDependencies": {
-		"vscode": "1.0.1"
+		"vscode": "1.1.36"
 	},
 	"__metadata": {
 		"id": "18",
